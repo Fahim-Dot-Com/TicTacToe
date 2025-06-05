@@ -40,6 +40,9 @@ A simple implementation of the classic game **Tic Tac Toe**, built to be played 
 - Improving user experience with input prompts and error handling
 - Writing clean and reusable functions
 
+## 🛠 known issues 
+- No interface which will be a future feature
+
 ## 🔧 How to Run
 
 1. Clone the repository:
